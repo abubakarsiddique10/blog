@@ -5,6 +5,7 @@ import './index.css'
 import Root from './Root.jsx'
 import ErrorPage from './pages/ErrorPage.jsx'
 import Home from './pages/Home.jsx'
+import AppliedJobs from './pages/AppliedJobs.jsx'
 
 const router = createBrowserRouter([
   {
@@ -15,6 +16,11 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home />
+      },
+      {
+        path: "/aplyedJobs",
+        loader: () => fetch('../src/data/blogs.json'),
+        element: <AppliedJobs />
       }
     ]
   }

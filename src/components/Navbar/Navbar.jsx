@@ -2,6 +2,7 @@ import { useContext, useState } from "react"
 import MenuItem from "./MenuItem";
 import openMenu from "../../assets/images/svg/open-menu.svg";
 import closeMenu from "../../assets/images/svg/close-menu.svg";
+import { Link } from "react-router-dom";
 
 
 const Navbar = () => {
@@ -9,13 +10,13 @@ const Navbar = () => {
 
     const navItems = [
         { name: 'Home', path: '/' },
-        { name: 'About Us', path: '#' },
+        { name: 'AplyedJobs', path: '/aplyedJobs' },
         { name: 'Portfolio', path: '#' },
         { name: 'Contact Us', path: '#' }
     ];
 
     return (
-        <nav id="header" className="static w-full top-0 bg-slate-200">
+        <nav id="header" className="fixed w-full top-0 bg-slate-200">
             <div className="container">
                 <div className="lg:flex items-center justify-between py-3 z-10 space-y-2 lg:space-y-0">
                     <div className="flex items-center justify-between">
@@ -23,7 +24,7 @@ const Navbar = () => {
                             {/* <img className="w-7 h-7 rounded-full ring-2 ring-gray-700"
                                 src="./assets/images/banner/abu-bakaar.png" alt="abu bakar">  */}
 
-                            <a className="text-3xl font-semibold" href="index.html">Medium</a>
+                            <Link className="text-3xl font-semibold" to="/">Medium</Link>
                         </div>
                         <button onClick={() => setOpen(!open)} className=" p-0 border-0 lg:hidden" type="button">
                             {open ? <img src={closeMenu} alt="" /> : <img src={openMenu} alt="" />}

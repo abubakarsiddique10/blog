@@ -1,0 +1,305 @@
+[
+    {
+        "id": 1,
+        "title": "How to Write Clean Code",
+        "author": "John Doe",
+        "authorImg": "https://example.com/john-doe.jpg",
+        "publicationDate": "Apr 20, 2024",
+        "readingTime": "10 min read",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices",
+        "tags": [
+            "programming",
+            "clean-code",
+            "software-development"
+        ],
+        "blogImg": "https://example.com/clean-code.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Art of Designing User Interfaces",
+        "author": "Jane Smith",
+        "authorImg": "https://example.com/jane-smith.jpg",
+        "publicationDate": "Apr 18, 2024",
+        "readingTime": "8 min read",
+        "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "design",
+            "ui-ux",
+            "user-experience"
+        ],
+        "blogImg": "https://example.com/ui-design.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Future of Artificial Intelligence",
+        "author": "Alan Turing",
+        "authorImg": "https://example.com/alan-turing.jpg",
+        "publicationDate": "Apr 15, 2024",
+        "readingTime": "12 min read",
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "artificial-intelligence",
+            "machine-learning",
+            "future"
+        ],
+        "blogImg": "https://example.com/ai-future.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Cooking Tips from a Master Chef",
+        "author": "Gordon Ramsay",
+        "authorImg": "https://example.com/gordon-ramsay.jpg",
+        "publicationDate": "Apr 10, 2024",
+        "readingTime": "15 min read",
+        "content": "Quisque id diam quis libero posuere tristique. Donec consectetur blandit enim, vitae. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "cooking",
+            "recipes",
+            "food"
+        ],
+        "blogImg": "https://example.com/cooking-tips.jpg"
+    },
+    {
+        "id": 5,
+        "title": "The Basics of Web Development",
+        "author": "Emily Johnson",
+        "authorImg": "https://example.com/emily-johnson.jpg",
+        "publicationDate": "Apr 8, 2024",
+        "readingTime": "7 min read",
+        "content": "Fusce eget felis vel enim laoreet efficitur id id odio. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "web-development",
+            "html",
+            "css",
+            "javascript"
+        ],
+        "blogImg": "https://example.com/web-dev-basics.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Exploring the Wonders of Space",
+        "author": "Neil Armstrong",
+        "authorImg": "https://example.com/neil-armstrong.jpg",
+        "publicationDate": "Apr 5, 2024",
+        "readingTime": "20 min read",
+        "content": "Curabitur sit amet placerat lectus. Pellentesque habitant morbi tristique. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "space-exploration",
+            "astronomy",
+            "cosmology"
+        ],
+        "blogImg": "https://example.com/space-wonders.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Healthy Living: Tips for a Balanced Lifestyle",
+        "author": "Olivia Williams",
+        "authorImg": "https://example.com/olivia-williams.jpg",
+        "publicationDate": "Apr 2, 2024",
+        "readingTime": "12 min read",
+        "content": "Integer sollicitudin neque non leo feugiat, vel luctus tortor. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "health",
+            "fitness",
+            "wellness",
+            "nutrition"
+        ],
+        "blogImg": "https://example.com/healthy-living.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Learning a New Language: Tips and Strategies",
+        "author": "David Lee",
+        "authorImg": "https://example.com/david-lee.jpg",
+        "publicationDate": "Mar 29, 2024",
+        "readingTime": "10 min read",
+        "content": "Morbi vitae velit et purus facilisis ullamcorper non nec nulla. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "language-learning",
+            "education",
+            "self-improvement"
+        ],
+        "blogImg": "https://example.com/language-learning.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Traveling on a Budget: Tips for Affordable Adventures",
+        "author": "Sophie Brown",
+        "authorImg": "https://example.com/sophie-brown.jpg",
+        "publicationDate": "Mar 25, 2024",
+        "readingTime": "15 min read",
+        "content": "Donec malesuada libero nec diam rutrum, sed mattis ex eleifend. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "travel",
+            "budget-travel",
+            "adventure"
+        ],
+        "blogImg": "https://example.com/budget-travel.jpg"
+    },
+    {
+        "id": 10,
+        "title": "The Benefits of Meditation for Mind and Body",
+        "author": "Michael Smith",
+        "authorImg": "https://example.com/michael-smith.jpg",
+        "publicationDate": "Mar 20, 2024",
+        "readingTime": "8 min read",
+        "content": "Vivamus at diam vel lorem ultrices cursus nec ut eros. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "meditation",
+            "mindfulness",
+            "health",
+            "well-being"
+        ],
+        "blogImg": "https://example.com/meditation-benefits.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Digital Marketing Strategies for Small Businesses",
+        "author": "Emma White",
+        "authorImg": "https://example.com/emma-white.jpg",
+        "publicationDate": "Mar 15, 2024",
+        "readingTime": "10 min read",
+        "content": "Sed sollicitudin, tortor nec varius efficitur, arcu nunc posuere felis. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "digital-marketing",
+            "small-business",
+            "marketing-strategy"
+        ],
+        "blogImg": "https://example.com/digital-marketing.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Mastering Photography: Tips from Professional Photographers",
+        "author": "William Johnson",
+        "authorImg": "https://example.com/william-johnson.jpg",
+        "publicationDate": "Mar 10, 2024",
+        "readingTime": "12 min read",
+        "content": "Duis vehicula, sem eget vehicula auctor, enim libero elementum lectus. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "photography",
+            "photography-tips",
+            "art"
+        ],
+        "blogImg": "https://example.com/photography-tips.jpg"
+    },
+    {
+        "id": 13,
+        "title": "The Importance of Financial Planning for Young Adults",
+        "author": "Sarah Clark",
+        "authorImg": "https://example.com/sarah-clark.jpg",
+        "publicationDate": "Mar 5, 2024",
+        "readingTime": "10 min read",
+        "content": "Praesent tincidunt, tortor at volutpat feugiat, libero turpis egestas mi. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "financial-planning",
+            "money-management",
+            "personalfinance"
+        ],
+        "blogImg": "https://example.com/financial-planning.jpg"
+    },
+    {
+        "id": 14,
+        "title": "The Fascinating World of Marine Biology",
+        "author": "Robert Johnson",
+        "authorImg": "https://example.com/robert-johnson.jpg",
+        "publicationDate": "Mar 1, 2024",
+        "readingTime": "15 min read",
+        "content": "Aliquam nec arcu vitae mauris sodales pulvinar. Integer vitae. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "marine-biology",
+            "oceanography",
+            "marine-life"
+        ],
+        "blogImg": "https://example.com/marine-biology.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Tips for Productive Remote Work",
+        "author": "Laura Williams",
+        "authorImg": "https://example.com/laura-williams.jpg",
+        "publicationDate": "Feb 25, 2024",
+        "readingTime": "8 min read",
+        "content": "Maecenas efficitur, lorem ut accumsan tincidunt, metus felis suscipit odio. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "remote-work",
+            "productivity",
+            "work-from-home"
+        ],
+        "blogImg": "https://example.com/remote-work.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Effective Time Management Techniques",
+        "author": "James Brown",
+        "authorImg": "https://example.com/james-brown.jpg",
+        "publicationDate": "Feb 20, 2024",
+        "readingTime": "10 min read",
+        "content": "Curabitur scelerisque magna ac odio pharetra malesuada. Nullam vel. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "time-management",
+            "productivity",
+            "organization"
+        ],
+        "blogImg": "https://example.com/time-management.jpg"
+    },
+    {
+        "id": 17,
+        "title": "The Psychology of Decision Making",
+        "author": "Sophia Garcia",
+        "authorImg": "https://example.com/sophia-garcia.jpg",
+        "publicationDate": "Feb 15, 2024",
+        "readingTime": "12 min read",
+        "content": "Fusce eu diam id orci porttitor convallis eget nec est. Sed. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "psychology",
+            "decision-making",
+            "behavior"
+        ],
+        "blogImg": "https://example.com/decision-making.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Exploring World History: Key Events and Figures",
+        "author": "Daniel Miller",
+        "authorImg": "https://example.com/daniel-miller.jpg",
+        "publicationDate": "Feb 10, 2024",
+        "readingTime": "15 min read",
+        "content": "Suspendisse potenti. Nulla facilisi. Duis non ante fermentum, feugiat. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "history",
+            "world-history",
+            "historical-figures"
+        ],
+        "blogImg": "https://example.com/world-history.jpg"
+    },
+    {
+        "id": 19,
+        "title": "The Art of Public Speaking",
+        "author": "Alexandra Taylor",
+        "authorImg": "https://example.com/alexandra-taylor.jpg",
+        "publicationDate": "Feb 5, 2024",
+        "readingTime": "10 min read",
+        "content": "Integer ut volutpat eros. Donec auctor felis sit amet enim feugiat. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "public-speaking",
+            "communication",
+            "presentation-skills"
+        ],
+        "blogImg": "https://example.com/public-speaking.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Discovering the World of Art: A Beginner's Guide",
+        "author": "Matthew Johnson",
+        "authorImg": "https://example.com/matthew-johnson.jpg",
+        "publicationDate": "Feb 1, 2024",
+        "readingTime": "8 min read",
+        "content": "Nunc condimentum enim vel vehicula laoreet. Sed vestibulum cursus elit. Nulla sollicitudin, neque nec vulputate consectetur, metus odio mattis justo, nec vehicula odio ipsum vitae odio. Proin maximus ex at commodo volutpat. Cras eu purus in ex tempus tempor. Nam eget nisl a est hendrerit iaculis. Vivamus id vestibulum libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi mollis, odio sit amet bibendum dapibus, purus ligula efficitur ex, nec ultricies arcu libero vitae leo. In vitae metus ut nunc varius interdum. Nulla facilisi. Suspendisse potenti. Fusce id mi nec sem ultricies ultrices.",
+        "tags": [
+            "art",
+            "art-appreciation",
+            "creativity"
+        ],
+        "blogImg": "https://example.com/art-guide.jpg"
+    }
+]
